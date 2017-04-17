@@ -1,0 +1,16 @@
+{
+  "description": "Callback-based loader for WebPack",
+  "homepage": "http://wiktor.latanowicz.com",
+  "maintainers": [
+    {
+      "name": "Wiktor Latanowicz",
+      "email": "callback.loader@wiktor.latanowicz.com"
+    }
+  ],
+  "name": "webpack-callback-loader",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:wlatanowicz/webpack-callback-loader.git"
+  },
+  "version": "1.0.0"
+}
